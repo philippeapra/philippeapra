@@ -35,7 +35,7 @@ I'm passionate about crafting innovative solutions to complex problems. I have a
 ### **Full Stack Software Developer Intern**  
 **Ericsson | May 2024 – Present**  
 - Engineered a robust testing framework for microservice feature tests, enhancing test code reusability by 30%.
-- Refactored microservice tests, reducing runtime by 20%.
+- Refactored microservice tests, reducing runtime by 40%.
 - Developed front-end components with Angular, boosting user experience and system usability.
 - Resolved critical bugs in a Cloud-Native architecture, ensuring system stability.
 
