@@ -33,7 +33,14 @@ I'm passionate about crafting innovative solutions to complex problems. I have a
 ## 💼 Experience
 
 ### **Full Stack Software Developer Intern**  
-**Ericsson | May 2024 – Present**  
+**SAP | Feb 2025 – Present**  
+- Implemented a proof-of-concept integration between SAP Cloud ALM and Return Order Service, improving observability and exception monitoring across systems.
+- Developed an ANTLR-based filter parser with Cosmos DB integration, enabling advanced query functionality and more efficient data retrieval.
+- Migrated CAP framework modules to a JSON-based reactive architecture, enhancing scalability and responsiveness of backend services.
+- Increased Return Order Service reliability by writing and refactoring unit tests, preventing regressions and strengthening integration coverage.
+
+### **Full Stack Software Developer Intern**  
+**Ericsson | May 2024 – Dec 2024**  
 - Engineered a robust testing framework for microservice feature tests, enhancing test code reusability by 30%.
 - Refactored microservice tests, reducing runtime by 40%.
 - Developed front-end components with Angular, boosting user experience and system usability.
