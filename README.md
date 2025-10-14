@@ -20,7 +20,7 @@ I'm passionate about crafting innovative solutions to complex problems. I have a
 ## 🎓 Education
 
 **Bachelor of Software Engineering** | McGill University  
-*Current CGPA: 3.84/4.0 | Major Excellence Scholarship*  
+*Current CGPA: 3.85/4.0 | Major Excellence Scholarship*  
 **Relevant Courses:**  
 - Model-Based Programming
 - Software Engineering Practice
